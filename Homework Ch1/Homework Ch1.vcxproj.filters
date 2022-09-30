@@ -9,7 +9,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="2.21.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2.23.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
