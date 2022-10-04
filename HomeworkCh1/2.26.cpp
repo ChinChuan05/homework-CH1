@@ -11,6 +11,6 @@ int main(){
         printf("%d is multiple of the n %d\n", num1, num2);
     }
     else{
-        printf("%d is not multiple of the n %d\n", num1, num2);
+        printf("%d is not multiple of the %d\n", num1, num2);
     }
 }

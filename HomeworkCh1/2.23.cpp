@@ -14,6 +14,6 @@ int main() {
 	if (num3 > largest) {
 		largest = num3;
 	}
-	printf("The largest num is %d", largest);
+	printf("The largest num is %d\n", largest);
 	system("pause");
 }
