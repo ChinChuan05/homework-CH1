@@ -1,3 +1,2 @@
-﻿  2.23.cpp
-2.23.obj : error LNK2005: _main 已在 2.21.obj 中定義過了
-C:\Users\CNC\source\repos\Homework Ch1\Debug\Homework Ch1.exe : fatal error LNK1169: 找到有一或多個已定義的符號
+﻿  main.cpp
+  Homework Ch1.vcxproj -> F:\homework-CH1-master\Debug\Homework Ch1.exe
